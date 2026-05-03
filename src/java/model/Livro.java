@@ -3,6 +3,7 @@ package model;
 // Atributos: codigo, titulo, genero, autor, anoPublicacao, paginas, estrelas
 public class Livro {
 
+    //Atributos
     private int codigo;
     private String titulo;
     private String genero;
